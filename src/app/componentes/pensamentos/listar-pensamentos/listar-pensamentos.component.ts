@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrl: './listar-pensamentos.component.css'
 })
 export class ListarPensamentosComponent {
-  
+  listaPensamentos = [
+    {
+      conteudo: '',
+      autoria: '',
+      modelo: ''
+    }
+  ];
 }

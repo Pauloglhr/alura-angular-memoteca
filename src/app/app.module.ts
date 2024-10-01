@@ -9,6 +9,7 @@ import { CriarPensamentoComponent } from './componentes/pensamentos/criar-pensam
 import { FormsModule } from '@angular/forms';
 import { ListarPensamentosComponent } from './componentes/pensamentos/listar-pensamentos/listar-pensamentos.component';
 import { RouterLink } from '@angular/router';
+import { PensamentoComponent } from './componentes/pensamentos/pensamento/pensamento.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { RouterLink } from '@angular/router';
     CabecalhoComponent,
     RodapeComponent,
     CriarPensamentoComponent,
-    ListarPensamentosComponent
+    ListarPensamentosComponent,
+    PensamentoComponent
   ],
   imports: [
     BrowserModule,
