@@ -10,6 +10,7 @@ import { FormsModule } from '@angular/forms';
 import { ListarPensamentosComponent } from './componentes/pensamentos/listar-pensamentos/listar-pensamentos.component';
 import { RouterLink } from '@angular/router';
 import { PensamentoComponent } from './componentes/pensamentos/pensamento/pensamento.component';
+import { provideHttpClient } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -18,15 +19,17 @@ import { PensamentoComponent } from './componentes/pensamentos/pensamento/pensam
     RodapeComponent,
     CriarPensamentoComponent,
     ListarPensamentosComponent,
-    PensamentoComponent
+    PensamentoComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    RouterLink
+    RouterLink,
   ],
-  providers: [],
+  providers: [
+    provideHttpClient()
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
