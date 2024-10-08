@@ -9,6 +9,12 @@
     {
       "id": "f887",
       "conteudo": "Angular 18",
+      "autoria": "Dev Rocha",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "9da1",
+      "conteudo": "Bug solucionado!",
       "autoria": "Dev Alura",
       "modelo": "modelo3"
     }

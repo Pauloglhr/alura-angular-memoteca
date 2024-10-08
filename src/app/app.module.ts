@@ -12,6 +12,7 @@ import { RouterLink } from '@angular/router';
 import { PensamentoComponent } from './componentes/pensamentos/pensamento/pensamento.component';
 import { provideHttpClient } from '@angular/common/http';
 import { ExcluirPensamentoComponent } from './componentes/pensamentos/excluir-pensamento/excluir-pensamento.component';
+import { EditarPensamentoComponent } from './componentes/pensamentos/editar-pensamento/editar-pensamento.component';
 
 @NgModule({
   declarations: [
@@ -22,6 +23,7 @@ import { ExcluirPensamentoComponent } from './componentes/pensamentos/excluir-pe
     ListarPensamentosComponent,
     PensamentoComponent,
     ExcluirPensamentoComponent,
+    EditarPensamentoComponent,
   ],
   imports: [
     BrowserModule,
