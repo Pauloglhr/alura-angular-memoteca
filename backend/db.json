@@ -7,58 +7,10 @@
       "modelo": "modelo1"
     },
     {
-      "id": "2",
-      "conteudo": "Angular é ótimo",
-      "autoria": "Dev",
-      "modelo": "modelo2"
-    },
-    {
-      "id": "3",
-      "conteudo": "Angular melhor linguagem",
-      "autoria": "Dev Torres",
-      "modelo": "modelo3"
-    },
-    {
-      "id": "373b",
-      "conteudo": "Pensamento teste",
-      "autoria": "Dev Alura",
-      "modelo": ""
-    },
-    {
-      "id": "6a89",
-      "conteudo": "Pensamento teste 2",
-      "autoria": "Dev.Torres",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "7c90",
+      "id": "f887",
       "conteudo": "Angular 18",
-      "autoria": "ssasa",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "9f10",
-      "conteudo": "Angular 18",
-      "autoria": "Dev.Torres",
-      "modelo": ""
-    },
-    {
-      "id": "75a2",
-      "conteudo": "aaaaa",
-      "autoria": "aaaa",
-      "modelo": ""
-    },
-    {
-      "id": "e7d6",
-      "conteudo": "Pensamento teste 2",
       "autoria": "Dev Alura",
       "modelo": "modelo3"
-    },
-    {
-      "id": "72f9",
-      "conteudo": "Bug solucionado!",
-      "autoria": "Dev Rocha",
-      "modelo": "modelo2"
     }
   ]
 }

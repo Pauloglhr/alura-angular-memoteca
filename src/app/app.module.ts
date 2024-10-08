@@ -11,6 +11,7 @@ import { ListarPensamentosComponent } from './componentes/pensamentos/listar-pen
 import { RouterLink } from '@angular/router';
 import { PensamentoComponent } from './componentes/pensamentos/pensamento/pensamento.component';
 import { provideHttpClient } from '@angular/common/http';
+import { ExcluirPensamentoComponent } from './componentes/pensamentos/excluir-pensamento/excluir-pensamento.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { provideHttpClient } from '@angular/common/http';
     CriarPensamentoComponent,
     ListarPensamentosComponent,
     PensamentoComponent,
+    ExcluirPensamentoComponent,
   ],
   imports: [
     BrowserModule,
