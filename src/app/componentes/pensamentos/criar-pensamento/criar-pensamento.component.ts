@@ -27,7 +27,8 @@ export class CriarPensamentoComponent implements OnInit{
       ])],
       autoria: ['', Validators.compose([
         Validators.required,
-        Validators.minLength(3)
+        Validators.minLength(3),
+        Validators.pattern(/^[a-zá-ü]+$/)
       ])],
       modelo: ['modelo1']
     })

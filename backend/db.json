@@ -3,13 +3,13 @@
     {
       "id": "1",
       "conteudo": "Testando backend",
-      "autoria": "R.Torres",
-      "modelo": "modelo1"
+      "autoria": "Teste",
+      "modelo": "modelo2"
     },
     {
       "id": "f887",
       "conteudo": "Angular 18",
-      "autoria": "Dev Rocha",
+      "autoria": "Dev Alura",
       "modelo": "modelo2"
     },
     {
