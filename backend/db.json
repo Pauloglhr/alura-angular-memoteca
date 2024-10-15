@@ -9,7 +9,7 @@
     {
       "id": "f887",
       "conteudo": "Angular 18",
-      "autoria": "Dev Alura",
+      "autoria": "dev.alura",
       "modelo": "modelo2"
     },
     {
@@ -17,6 +17,30 @@
       "conteudo": "Bug solucionado!",
       "autoria": "Dev Alura",
       "modelo": "modelo3"
+    },
+    {
+      "id": "43d1",
+      "conteudo": "Teste ",
+      "autoria": "paulo",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "d015",
+      "conteudo": "teste 2",
+      "autoria": "yasmin",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "329a",
+      "conteudo": "teste 3",
+      "autoria": "jaciana",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "fcdc",
+      "conteudo": "ultimo teste",
+      "autoria": "rocha",
+      "modelo": "modelo1"
     }
   ]
 }
