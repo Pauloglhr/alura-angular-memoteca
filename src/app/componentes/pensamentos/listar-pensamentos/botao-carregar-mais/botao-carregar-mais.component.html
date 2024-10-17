@@ -1,4 +1,4 @@
-<div class="center" *ngIf="haMaisPensamentos else semMaisPensamentos">
+<div class="center" *ngIf="haMaisPensamentos; else semMaisPensamentos">
     <button class="botao carregar-mais">Carregar mais pensamentos</button>
 </div>
 <ng-template #semMaisPensamentos>
