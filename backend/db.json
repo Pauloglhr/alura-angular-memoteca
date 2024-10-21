@@ -4,43 +4,50 @@
       "id": "1",
       "conteudo": "Testando backend",
       "autoria": "Teste",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": "f887",
       "conteudo": "Angular 18",
       "autoria": "dev.alura",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": "9da1",
       "conteudo": "Bug solucionado!",
       "autoria": "Dev Alura",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": "43d1",
       "conteudo": "Teste ",
       "autoria": "paulo",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": "d015",
       "conteudo": "teste 2",
       "autoria": "yasmin",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": "329a",
       "conteudo": "teste 3",
       "autoria": "jaciana",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": "fcdc",
       "conteudo": "ultimo teste",
       "autoria": "rocha",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     }
   ]
 }

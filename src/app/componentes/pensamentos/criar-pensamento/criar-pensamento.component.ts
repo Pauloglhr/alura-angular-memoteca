@@ -30,7 +30,8 @@ export class CriarPensamentoComponent implements OnInit{
         Validators.minLength(3),
         Validators.pattern(/^[a-zá-ü]+$/)
       ])],
-      modelo: ['modelo1']
+      modelo: ['modelo1'],
+      favorito: [false]
     })
   }
 
